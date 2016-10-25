@@ -1,0 +1,26 @@
+{
+  "name": "take-home-coding-challenge-workshop",
+  "version": "1.0.0",
+  "description": "Take-home coding challenge workshop coding challenges live here. See Resources section below for slides and rubric(s).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjfong/take-home-coding-challenge-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjfong/take-home-coding-challenge-workshop/issues"
+  },
+  "homepage": "https://github.com/zjfong/take-home-coding-challenge-workshop#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5"
+  },
+  "devDependencies": {}
+}
